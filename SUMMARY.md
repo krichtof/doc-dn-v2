@@ -30,6 +30,20 @@
 
 * [Guide usager](guide-usager-1.md)
 
+## Aide
+
+* [Aide](aide/aide.md)
+
+## Lexique
+
+***
+
+* [Lexique](lexique-1.md)
+
+## Aspects juridiques
+
+* [Aspects juridiques](aspects-juridiques/aspects-juridiques.md)
+
 ## Exemple Getting Started
 
 * [Getting started](getting-started/getting-started.md)
