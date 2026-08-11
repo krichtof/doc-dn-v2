@@ -15,6 +15,7 @@
 * [Guide administrateur init](guide-administrateur/guide-administrateur-init.md)
 * [Créer un compte administrateur](guide-administrateur/creer-un-compte-admin.md)
 * [Se connecter à DN](guide-administrateur/se-connecter-a-dn)
+* [Découvrir le tableau de bord de vos démarches](guide-administrateur/decouvrir-dashboard-demarches.md)
 * [Les bonnes pratiques lors de la création d'une démarche doc v1](guide-administrateur/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
 * [Champ référentiel avancé (à configurer) 1](guide-administrateur/champ-referentiel-avance-a-configurer.md)
 * [Champs liés à API Particulier 1](guide-administrateur/champs-lies-a-api-particulier.md)
