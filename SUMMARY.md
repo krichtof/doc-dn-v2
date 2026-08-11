@@ -12,23 +12,30 @@
 
 ## Guide administrateur
 
-* [Guide administrateur](guide-administrateur/guide-administrateur.md)
+* [Guide administrateur init](guide-administrateur/guide-administrateur-init.md)
+* [Les bonnes pratiques lors de la création d'une démarche doc v1](guide-administrateur/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
+* [Champ référentiel avancé (à configurer) 1](guide-administrateur/champ-referentiel-avance-a-configurer.md)
+* [Champs liés à API Particulier 1](guide-administrateur/champs-lies-a-api-particulier.md)
+* [Intégration du bouton « Mon avis » 1](guide-administrateur/integration-du-bouton-mon-avis.md)
+* [Vidéo : la relation usager 1](guide-administrateur/video-la-relation-usager.md)
+* [Tuto administrateur v1](guide-administrateur/tutoriel-administrateur.md)
 
 ## Guide instructeur
 
-***
-
-* [Guide instructeur](guide-instructeur-1.md)
+* [Guide instructeur init](guide-instructeur/guide-instructeur-init.md)
+* [Tuto instructeur v1](guide-instructeur/tutoriel-instructeur.md)
 
 ## Guide expert
 
-* [Guide expert](guide-expert/guide-expert.md)
+* [Guide expert init](guide-expert/guide-expert-init.md)
+* [Tuto expert v1](guide-expert/tutoriel-expert-invite.md)
 
 ## Guide usager
 
 ***
 
 * [Guide usager](guide-usager-1.md)
+* [Tutoriel usager v1](tutoriel-usager.md)
 
 ## Aide
 
@@ -43,6 +50,7 @@
 ## Aspects juridiques
 
 * [Aspects juridiques](aspects-juridiques/aspects-juridiques.md)
+* [Vidéo : le cadre juridique doc v1](aspects-juridiques/video-le-cadre-juridique.md)
 
 ## Exemple Getting Started
 

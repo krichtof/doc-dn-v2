@@ -2,7 +2,7 @@
 description: Comment créer sa démarche sur demarche.numerique.gouv.fr ?
 ---
 
-# Tutoriel administrateur
+# Tuto administrateur v1
 
 Ce tutoriel présente les étapes de création d’une démarche sur **demarche.numerique.gouv.fr** par un administrateur.
 
@@ -547,7 +547,7 @@ Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager
 
 ### Qu’est-ce qu’un champ référentiel à configurer (avancé ) ?
 
-Nous vous renvoyons à la [documentation](champ-referentiel-avance-a-configurer.md) spécifique à ce type de champ.
+Nous vous renvoyons à la [documentation](../tutoriels/champ-referentiel-avance-a-configurer.md) spécifique à ce type de champ.
 
 ### **C. Renseigner une description**
 
@@ -597,7 +597,7 @@ Pour réduire la durée de remplissage de votre démarche, réellement simplifie
 * **Demander moins de pièces justificatives**. Chaque pièce justificative nécessite généralement de retrouver un document papier et de le scanner (avec un scanner ou un téléphone), puis de le transférer sur l'appareil où on remplit la démarche pour l'envoyer. Un excès de pièces justificatives est une source majeure d’abandon de la démarche.
 * **Utiliser les API pour récupérer des informations**. Vous pouvez par exemple demander le n° SIRET pour obtenir automatiquement des informations sur un établissement (plutôt que de demander ces informations une par une) ; ou interroger l’annuaire Éducation.
 
-_Voir aussi : les_ [_bonnes pratiques pour la création d’une démarche_](les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)_._
+_Voir aussi : les_ [_bonnes pratiques pour la création d’une démarche_](../tutoriels/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)_._
 
 ### I. Prévisualiser le formulaire
 
