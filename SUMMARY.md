@@ -18,6 +18,22 @@
 * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
   * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
   * [Décrire sa démarche](guide-administrateur/decrire-sa-demarche.md)
+  * [Créer son formulaire](guide-administrateur/creer-son-formulaire.md)
+* créer son formulaire
+  * attributs des champs
+    (type, libelle, description, obligatoire)
+  * les champs structure des champs
+  * les champs etat civil
+  * les champs paiement ident
+  * les champs standard
+  * les champs pièce à joindre ??
+  * les champs relatifs aux choix
+  * les champs relatifs aux ref externes (champs carte ici ?)
+  * ajouter logiques conditionnelles
+* modifier son formulaire
+  * modifier un champ
+  * modifier l'ordre dees champ
+  * supprimer un champ
 * [Découvrir le tableau de bord de vos démarches](guide-administrateur/decouvrir-dashboard-demarches.md)
 - [Découvrir le tableau de bord de l'ensemble des démarches publiées](guide-administrateur/decouvrir-dashboard-toutes-demarches.md)
 * [Les bonnes pratiques lors de la création d'une démarche doc v1](guide-administrateur/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
