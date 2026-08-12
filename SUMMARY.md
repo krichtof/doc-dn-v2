@@ -14,7 +14,7 @@
 
 * [Guide administrateur init](guide-administrateur/guide-administrateur-init.md)
 * [Créer un compte administrateur](guide-administrateur/creer-un-compte-admin.md)
-* [Se connecter à DN](guide-administrateur/se-connecter-a-dn)
+* [Se connecter à DN](guide-administrateur/se-connecter-a-dn.md)
 * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
   * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
   * [Décrire sa démarche](guide-administrateur/decrire-sa-demarche.md)
