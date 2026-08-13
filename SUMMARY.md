@@ -29,6 +29,9 @@
   * [Informer l'usager sur l'état d'avancement de sa démarche](guide-administrateur/avancement-demarche.md)
   * [Nommer les instructeurs](guide-administrateur/nommer-instructeurs.md)
   * [Utiliser le routage](guide-administrateur/routage.md)
+  * [Gérer des "avis experts invités](guide-administrateur/avis-experts.md)
+
+
 * [Tester sa démarche](guide-administrateur/tester-demarche.md)
 - [Découvrir toutes les démarches publiées](guide-administrateur/decouvrir-dashboard-toutes-demarches.md)
 * [Les bonnes pratiques lors de la création d'une démarche doc v1](guide-administrateur/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
