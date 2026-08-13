@@ -24,9 +24,12 @@
   * [Les différents types de champ](guide-administrateur/types-champs.md)
   * [Modifier son formulaire](guide-administrateur/modifier-formulaire.md)
   * [Ajouter des logiques conditionnelles](guide-administrateur/champs-conditionnel.md)
-* Informer l'usager sur l'état de sa démarche
-* Nommer les instructeurs
-* [Découvrir le tableau de bord de vos démarches](guide-administrateur/decouvrir-dashboard-demarches.md)
+* Configurer sa démarche
+  * [Proposer des annotations privées réservées aux instructeurs](guide-administrateur/annotations-privees.md)
+  * [Informer l'usager sur l'état d'avancement de sa démarche](guide-administrateur/avancement-demarche.md)
+  * [Nommer les instructeurs](guide-administrateur/nommer-instructeurs.md)
+  * [Utiliser le routage](guide-administrateur/routage.md)
+* [Tester sa démarche](guide-administrateur/tester-demarche.md)
 - [Découvrir toutes les démarches publiées](guide-administrateur/decouvrir-dashboard-toutes-demarches.md)
 * [Les bonnes pratiques lors de la création d'une démarche doc v1](guide-administrateur/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
 * [Champ référentiel avancé (à configurer) 1](guide-administrateur/champ-referentiel-avance-a-configurer.md)
