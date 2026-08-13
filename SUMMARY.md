@@ -21,6 +21,7 @@
   * [Créer son formulaire](guide-administrateur/creer-son-formulaire.md)
 * Créer son formulaire
   * [Les attributs des champs](guide-administrateur/attributs-champs.md)
+  * [Les différents types de champ](guide-administrateur/types-champs.md)
   * [Les champs "Structure des champs"](guide-administrateur/champs-structure.md)
   * [Les champs "Localisation"](guide-administrateur/champs-localisation.md)
   * [Les champs "Etat civil"](guide-administrateur/champs-etat-civil.md)
