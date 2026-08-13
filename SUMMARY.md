@@ -18,24 +18,12 @@
 * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
   * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
   * [Décrire sa démarche](guide-administrateur/decrire-sa-demarche.md)
+* Editer son formulaire
   * [Créer son formulaire](guide-administrateur/creer-son-formulaire.md)
-* Créer son formulaire
   * [Les attributs des champs](guide-administrateur/attributs-champs.md)
   * [Les différents types de champ](guide-administrateur/types-champs.md)
-  * [Les champs "Structure des champs"](guide-administrateur/champs-structure.md)
-  * [Les champs "Localisation"](guide-administrateur/champs-localisation.md)
-  * [Les champs "Etat civil"](guide-administrateur/champs-etat-civil.md)
-  * [Les champs "Localisation"](guide-administrateur/champs-localisation.md)
-  * [Les champs "Paiement et identification"](guide-administrateur/champs-paiement-ident.md)
-  * [Les champs standard](guide-administrateur/champs-standard.md)
-  * [Les champs "choix"](guide-administrateur/champs-choix.md)
-  * [Les champs "Referentiel externe"](guide-administrateur/champs-ref-externe.md)
-  * [Les champs "France Connect"](guide-administrateur/champs-fc.md)
-  * [Ajouter des logiques conditionnelles](guide-administrateur/champs-logique-cond.md)
-* Modifier son formulaire
-  * Modifier un champ
-  * Modifier l'ordre dees champ
-  * Supprimer un champ
+  * [Modifier son formulaire](guide-administrateur/modifier-formulaire.md)
+  * [Ajouter des logiques conditionnelles](guide-administrateur/champs-conditionnel.md)
 * Informer l'usager sur l'état de sa démarche
 * Nommer les instructeurs
 * [Découvrir le tableau de bord de vos démarches](guide-administrateur/decouvrir-dashboard-demarches.md)
