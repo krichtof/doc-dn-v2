@@ -20,8 +20,7 @@
   * [Décrire sa démarche](guide-administrateur/decrire-sa-demarche.md)
   * [Créer son formulaire](guide-administrateur/creer-son-formulaire.md)
 * créer son formulaire
-  * attributs des champs
-    (type, libelle, description, obligatoire)
+  * [attributs des champs](guide-administrateur/attributs-champs.md)
   * les champs structure des champs
   * les champs etat civil
   * les champs paiement ident
@@ -34,8 +33,10 @@
   * modifier un champ
   * modifier l'ordre dees champ
   * supprimer un champ
+* Informer l'usager sur l'état de sa démarche
+* Nommer les instructeurs
 * [Découvrir le tableau de bord de vos démarches](guide-administrateur/decouvrir-dashboard-demarches.md)
-- [Découvrir le tableau de bord de l'ensemble des démarches publiées](guide-administrateur/decouvrir-dashboard-toutes-demarches.md)
+- [Découvrir toutes les démarches publiées](guide-administrateur/decouvrir-dashboard-toutes-demarches.md)
 * [Les bonnes pratiques lors de la création d'une démarche doc v1](guide-administrateur/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
 * [Champ référentiel avancé (à configurer) 1](guide-administrateur/champ-referentiel-avance-a-configurer.md)
 * [Champs liés à API Particulier 1](guide-administrateur/champs-lies-a-api-particulier.md)
