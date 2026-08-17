@@ -38,6 +38,7 @@
 
 
 * [Tester sa démarche](guide-administrateur/tester-demarche.md)
+* [Publier sa démarche](guide-administrateur/publier.md)
 
 ## Guide instructeur
 
