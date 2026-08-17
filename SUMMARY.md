@@ -33,6 +33,7 @@
   * [Personnaliser la confirmation de dépôt de dossier](guide-administrateur/confirmation-depot.md)
   * [Configurer un accusé de lecture](guide-administrateur/config-accuse-lecture.md)
   * [Gérer les labels](guide-administrateur/labels.md)
+  * [Gérer les prises de rendez-vous](guide-administrateur/rdv.md)
 
 
 
