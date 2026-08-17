@@ -31,6 +31,8 @@
   * [Gérer des "avis experts invités](guide-administrateur/avis-experts.md)
   * [Proposer l'évaluation de la démarche pour les usagers](guide-administrateur/eval-usagers.md)
   * [Personnaliser la confirmation de dépôt de dossier](guide-administrateur/confirmation-depot.md)
+  * [Configurer un accusé de lecture](guide-administrateur/config-accuse-lecture.md)
+
 
 
 * [Tester sa démarche](guide-administrateur/tester-demarche.md)
