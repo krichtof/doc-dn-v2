@@ -73,30 +73,6 @@
 * [Aspects juridiques](aspects-juridiques/aspects-juridiques.md)
 * [Vidéo : le cadre juridique doc v1](aspects-juridiques/video-le-cadre-juridique.md)
 
-## Exemple Getting Started
-
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
-
-## Exemple Core concepts
-
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
-
-## Exemple Guides
-
-* [Guides](guides-exemple/guides.md)
-* [Custom domains](guides-exemple/custom-domains.md)
-* [Automations](guides-exemple/automations.md)
-
-## Exemple Reference
-
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
-
 ## Doc DN v1
 
 * [Tutoriels et vidéos](tutoriels/README.md)
