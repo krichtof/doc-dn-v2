@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bienvenue](README.md)
+* [Developer Platform](readme-1.md)
 
 ## Prise en main
 
@@ -11,19 +12,19 @@
 
 ## Guide administrateur
 
-* [Guide administrateur](guide-administrateur/guide-administrateur-init.md)
+* [Guide administrateur](guide-administrateur/guide-administrateur.md)
 * [Créer un compte administrateur](guide-administrateur/creer-un-compte-admin.md)
 * [Se connecter à DN](guide-administrateur/se-connecter-a-dn.md)
 * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
   * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
   * [Décrire sa démarche](guide-administrateur/decrire-sa-demarche.md)
-* Editer son formulaire
-  * [Créer son formulaire](guide-administrateur/creer-son-formulaire.md)
+* [Editer son formulaire](guide-administrateur/editer-son-formulaire/README.md)
+  * [Créer son formulaire](guide-administrateur/editer-son-formulaire/creer-son-formulaire.md)
   * [Les attributs des champs](guide-administrateur/attributs-champs.md)
   * [Les différents types de champ](guide-administrateur/types-champs.md)
   * [Modifier son formulaire](guide-administrateur/modifier-formulaire.md)
   * [Ajouter des logiques conditionnelles](guide-administrateur/champs-conditionnel.md)
-* Configurer sa démarche
+* [Configurer sa démarche](guide-administrateur/configurer-sa-demarche/README.md)
   * [Proposer des annotations privées réservées aux instructeurs](guide-administrateur/annotations-privees.md)
   * [Informer l'usager sur l'état d'avancement de sa démarche](guide-administrateur/avancement-demarche.md)
   * [Nommer les instructeurs](guide-administrateur/nommer-instructeurs.md)
@@ -34,9 +35,6 @@
   * [Configurer un accusé de lecture](guide-administrateur/config-accuse-lecture.md)
   * [Gérer les labels](guide-administrateur/labels.md)
   * [Gérer les prises de rendez-vous](guide-administrateur/rdv.md)
-
-
-
 * [Tester sa démarche](guide-administrateur/tester-demarche.md)
 * [Publier sa démarche](guide-administrateur/publier.md)
 * [Clore sa démarche](guide-administrateur/clore.md)
@@ -64,8 +62,6 @@
 
 ## Lexique
 
-***
-
 * [Lexique](lexique-1.md)
 
 ## Aspects juridiques
@@ -74,7 +70,8 @@
 * [Vidéo : le cadre juridique doc v1](aspects-juridiques/video-le-cadre-juridique.md)
 
 ## A organiser
-- [Découvrir toutes les démarches publiées](guide-administrateur/decouvrir-dashboard-toutes-demarches.md)
+
+* [Découvrir toutes les démarches publiées](guide-administrateur/decouvrir-dashboard-toutes-demarches.md)
 * [Les bonnes pratiques lors de la création d'une démarche doc v1](guide-administrateur/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
 * [Champ référentiel avancé (à configurer) 1](guide-administrateur/champ-referentiel-avance-a-configurer.md)
 * [Champs liés à API Particulier 1](guide-administrateur/champs-lies-a-api-particulier.md)
