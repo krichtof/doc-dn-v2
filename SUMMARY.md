@@ -32,6 +32,7 @@
   * [Proposer l'évaluation de la démarche pour les usagers](guide-administrateur/eval-usagers.md)
   * [Personnaliser la confirmation de dépôt de dossier](guide-administrateur/confirmation-depot.md)
   * [Configurer un accusé de lecture](guide-administrateur/config-accuse-lecture.md)
+  * [Gérer les labels](guide-administrateur/labels.md)
 
 
 
