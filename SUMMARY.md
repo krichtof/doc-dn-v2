@@ -15,26 +15,26 @@
 * [Guide administrateur](guide-administrateur/guide-administrateur.md)
 * [Créer un compte administrateur](guide-administrateur/creer-un-compte-admin.md)
 * [Se connecter à DN](guide-administrateur/se-connecter-a-dn.md)
-* [Créer une démarche](guide-administrateur/creer-une-demarche.md)
-  * [Créer une démarche](guide-administrateur/creer-une-demarche.md)
-  * [Décrire sa démarche](guide-administrateur/decrire-sa-demarche.md)
+* [Créer une démarche](guide-administrateur/creer-une-demarche/README.md)
+  * [Créer une démarche](guide-administrateur/creer-une-demarche/README.md)
+  * [Décrire sa démarche](guide-administrateur/creer-une-demarche/decrire-sa-demarche.md)
 * [Editer son formulaire](guide-administrateur/editer-son-formulaire/README.md)
   * [Créer son formulaire](guide-administrateur/editer-son-formulaire/creer-son-formulaire.md)
-  * [Les attributs des champs](guide-administrateur/attributs-champs.md)
-  * [Les différents types de champ](guide-administrateur/types-champs.md)
-  * [Modifier son formulaire](guide-administrateur/modifier-formulaire.md)
-  * [Ajouter des logiques conditionnelles](guide-administrateur/champs-conditionnel.md)
+  * [Les attributs des champs](guide-administrateur/editer-son-formulaire/attributs-champs.md)
+  * [Les différents types de champ](guide-administrateur/editer-son-formulaire/types-champs.md)
+  * [Modifier son formulaire](guide-administrateur/editer-son-formulaire/modifier-formulaire.md)
+  * [Ajouter des logiques conditionnelles](guide-administrateur/editer-son-formulaire/champs-conditionnel.md)
 * [Configurer sa démarche](guide-administrateur/configurer-sa-demarche/README.md)
-  * [Proposer des annotations privées réservées aux instructeurs](guide-administrateur/annotations-privees.md)
-  * [Informer l'usager sur l'état d'avancement de sa démarche](guide-administrateur/avancement-demarche.md)
-  * [Nommer les instructeurs](guide-administrateur/nommer-instructeurs.md)
-  * [Utiliser le routage](guide-administrateur/routage.md)
-  * [Gérer des "avis experts invités](guide-administrateur/avis-experts.md)
-  * [Proposer l'évaluation de la démarche pour les usagers](guide-administrateur/eval-usagers.md)
-  * [Personnaliser la confirmation de dépôt de dossier](guide-administrateur/confirmation-depot.md)
-  * [Configurer un accusé de lecture](guide-administrateur/config-accuse-lecture.md)
-  * [Gérer les labels](guide-administrateur/labels.md)
-  * [Gérer les prises de rendez-vous](guide-administrateur/rdv.md)
+  * [Proposer des annotations privées réservées aux instructeurs](guide-administrateur/configurer-sa-demarche/annotations-privees.md)
+  * [Informer l'usager sur l'état d'avancement de sa démarche](guide-administrateur/configurer-sa-demarche/avancement-demarche.md)
+  * [Nommer les instructeurs](guide-administrateur/configurer-sa-demarche/nommer-instructeurs.md)
+  * [Utiliser le routage](guide-administrateur/configurer-sa-demarche/routage.md)
+  * [Gérer des "avis experts invités](guide-administrateur/configurer-sa-demarche/avis-experts.md)
+  * [Proposer l'évaluation de la démarche pour les usagers](guide-administrateur/configurer-sa-demarche/eval-usagers.md)
+  * [Personnaliser la confirmation de dépôt de dossier](guide-administrateur/configurer-sa-demarche/confirmation-depot.md)
+  * [Configurer un accusé de lecture](guide-administrateur/configurer-sa-demarche/config-accuse-lecture.md)
+  * [Gérer les labels](guide-administrateur/configurer-sa-demarche/labels.md)
+  * [Gérer les prises de rendez-vous](guide-administrateur/configurer-sa-demarche/rdv.md)
 * [Tester sa démarche](guide-administrateur/tester-demarche.md)
 * [Publier sa démarche](guide-administrateur/publier.md)
 * [Clore sa démarche](guide-administrateur/clore.md)
@@ -54,7 +54,7 @@
 
 ## Guide usager
 
-* [Guide usager](guide-usager-1.md)
+* [Guide usager](guide-usager/guide-usager-1.md)
 
 ## Aide
 
@@ -62,7 +62,7 @@
 
 ## Lexique
 
-* [Lexique](lexique-1.md)
+* [Lexique](lexique/lexique-1.md)
 
 ## Aspects juridiques
 
@@ -71,25 +71,25 @@
 
 ## A organiser
 
-* [Découvrir toutes les démarches publiées](guide-administrateur/decouvrir-dashboard-toutes-demarches.md)
-* [Les bonnes pratiques lors de la création d'une démarche doc v1](guide-administrateur/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
-* [Champ référentiel avancé (à configurer) 1](guide-administrateur/champ-referentiel-avance-a-configurer.md)
-* [Champs liés à API Particulier 1](guide-administrateur/champs-lies-a-api-particulier.md)
-* [Intégration du bouton « Mon avis » 1](guide-administrateur/integration-du-bouton-mon-avis.md)
-* [Vidéo : la relation usager 1](guide-administrateur/video-la-relation-usager.md)
-* [Tuto administrateur v1](guide-administrateur/tutoriel-administrateur.md)
+* [Découvrir toutes les démarches publiées](a-organiser/decouvrir-dashboard-toutes-demarches.md)
+* [Les bonnes pratiques lors de la création d'une démarche doc v1](a-organiser/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
+* [Champ référentiel avancé (à configurer) 1](a-organiser/champ-referentiel-avance-a-configurer.md)
+* [Champs liés à API Particulier 1](a-organiser/champs-lies-a-api-particulier.md)
+* [Intégration du bouton « Mon avis » 1](a-organiser/integration-du-bouton-mon-avis.md)
+* [Vidéo : la relation usager 1](a-organiser/video-la-relation-usager.md)
+* [Tuto administrateur v1](a-organiser/tutoriel-administrateur.md)
 
 ## Doc DN v1
 
-* [Tutoriels et vidéos](tutoriels/README.md)
-  * [Tutoriel usager](tutoriels/tutoriel-usager.md)
-  * [Tutoriel « expert invité »](tutoriels/tutoriel-expert-invite.md)
-  * [Tutoriel instructeur](tutoriels/tutoriel-instructeur.md)
-  * [Tutoriel administrateur](tutoriels/tutoriel-administrateur.md)
-  * [Les bonnes pratiques lors de la création d'une démarche](tutoriels/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
-  * [Vidéo : la sécurité de demarche.numerique.gouv.fr](tutoriels/video-la-securite-de-demarches-simplifiees.md)
-  * [Vidéo : le cadre juridique](tutoriels/video-le-cadre-juridique.md)
-  * [Vidéo : la relation usager](tutoriels/video-la-relation-usager.md)
-  * [Intégration du bouton « Mon avis »](tutoriels/integration-du-bouton-mon-avis.md)
-  * [Champ référentiel avancé (à configurer)](tutoriels/champ-referentiel-avance-a-configurer.md)
-  * [Champs liés à API Particulier](tutoriels/champs-lies-a-api-particulier.md)
+* [Tutoriels et vidéos](doc-dn-v1/tutoriels/README.md)
+  * [Tutoriel usager](doc-dn-v1/tutoriels/tutoriel-usager.md)
+  * [Tutoriel « expert invité »](doc-dn-v1/tutoriels/tutoriel-expert-invite.md)
+  * [Tutoriel instructeur](doc-dn-v1/tutoriels/tutoriel-instructeur.md)
+  * [Tutoriel administrateur](doc-dn-v1/tutoriels/tutoriel-administrateur.md)
+  * [Les bonnes pratiques lors de la création d'une démarche](doc-dn-v1/tutoriels/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
+  * [Vidéo : la sécurité de demarche.numerique.gouv.fr](doc-dn-v1/tutoriels/video-la-securite-de-demarches-simplifiees.md)
+  * [Vidéo : le cadre juridique](doc-dn-v1/tutoriels/video-le-cadre-juridique.md)
+  * [Vidéo : la relation usager](doc-dn-v1/tutoriels/video-la-relation-usager.md)
+  * [Intégration du bouton « Mon avis »](doc-dn-v1/tutoriels/integration-du-bouton-mon-avis.md)
+  * [Champ référentiel avancé (à configurer)](doc-dn-v1/tutoriels/champ-referentiel-avance-a-configurer.md)
+  * [Champs liés à API Particulier](doc-dn-v1/tutoriels/champs-lies-a-api-particulier.md)
