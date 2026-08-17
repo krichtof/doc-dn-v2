@@ -41,6 +41,7 @@
 * [Publier sa démarche](guide-administrateur/publier.md)
 * [Clore sa démarche](guide-administrateur/clore.md)
 * [Transférer sa démarche](guide-administrateur/transfert.md)
+* [Réactiver une démarche close](guide-administrateur/reactiver-demarche-close.md)
 
 ## Guide instructeur
 
