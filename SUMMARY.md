@@ -42,6 +42,7 @@
 * [Clore sa démarche](guide-administrateur/clore.md)
 * [Transférer sa démarche](guide-administrateur/transfert.md)
 * [Réactiver une démarche close](guide-administrateur/reactiver-demarche-close.md)
+* [Télécharger une archive globale des dossiers](guide-administrateur/telecharger-dossiers.md)
 
 ## Guide instructeur
 
