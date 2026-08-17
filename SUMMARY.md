@@ -29,6 +29,7 @@
   * [Nommer les instructeurs](guide-administrateur/nommer-instructeurs.md)
   * [Utiliser le routage](guide-administrateur/routage.md)
   * [Gérer des "avis experts invités](guide-administrateur/avis-experts.md)
+  * [Proposer l'évaluation de la démarche pour les usagers](guide-administrateur/eval-usagers.md)
 
 
 * [Tester sa démarche](guide-administrateur/tester-demarche.md)
