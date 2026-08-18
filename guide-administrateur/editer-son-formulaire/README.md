@@ -1,3 +1,7 @@
+---
+icon: pen-clip
+---
+
 # Editer son formulaire
 
 Chaque démarche a son propre formulaire constitué d'un ensemble de champs. Ce chapitre présente comment en créer un et l'ensemble des types de champs à votre disposition.
