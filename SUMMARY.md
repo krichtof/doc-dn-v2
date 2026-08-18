@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Bienvenue](README.md)
-* [Documentation Démarche Numérique](readme-1.md)
+* [Documentation Démarche Numérique](README.md)
 
 ## Prise en main
 
